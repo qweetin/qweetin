@@ -1,52 +1,41 @@
 <div align="center">
-  <!-- รูป Header ฉากกระโดด Leap of Faith จากในหนัง -->
-  <img src="https://media.tenor.com/f2vP5R1B6uIAAAAC/miles-morales-spider-man-into-the-spider-verse.gif" width="100%" alt="Miles Morales Header">
-  
-  <h1>🎧 What's up, danger? I'm Tata 🕷️</h1>
-  <p><i>1st-Year Computer Engineering Student at RMUTI | Front-End Developer in the making</i></p>
+  <!-- ภาพ Header แบบคลื่น (สร้างอัตโนมัติ) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Tata!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
----
-
-### 🏙️ Into the Dev-Verse (About Me)
-
-<!-- รูปตกแต่ง Miles Morales แบบ Glitch เท่ๆ ด้านข้าง -->
-<img align="right" width="180" src="https://media.tenor.com/83pZ_P2Rz24AAAAC/miles-morales.gif" alt="Spider-Verse Glitch">
-
-สวัสดีครับ! ผม **ตาต้า (Justqwee)** ปัจจุบันกำลังศึกษาอยู่ปี 1 วิศวกรรมคอมพิวเตอร์ มทร.อีสาน 
-กำลังฝึกฝน "พลัง" ในการเขียนโค้ดเพื่อก้าวไปเป็น Front-end Developer 
-ผมเชื่อในคำพูดที่ว่า *"Anyone can wear the mask"* และทุกคนก็สามารถสร้างเว็บไซต์ที่ยอดเยี่ยมได้เหมือนกัน! ปัจจุบันกำลังเน้นปูพื้นฐานและสนุกกับการแก้ปัญหาด้วยโค้ดครับ <br clear="both">
-
----
-
-### ⚡ My Web-Shooters (Tech Stack & Tools)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+  สวัสดีครับ ผมชื่อ <b>ตาต้า</b> (Justqwee)<br>
+  นักศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มทร.อีสาน<br>
+  มีความสนใจในการพัฒนาเว็บไซต์และกำลังเริ่มต้นเส้นทางสาย Front-End Developer! 🚀
 </p>
 
 ---
 
-### 📊 My Spider-Stats
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <!-- ป้ายสกิลแบบเรียบหรู -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Justqwee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tata's GitHub Stats" />
+  <!-- สถิติ GitHub ธีม Radical (สีชมพู-ม่วง) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qweetin&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qweetin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔗 Connect with me (Earth-1610)
-- 🌐 **My Portfolio:** [qweetin.github.io](https://qweetin.github.io)
-- 📫 **GitHub:** [@qweetin](https://github.com/qweetin)
-
-<br>
-
-<div align="center">
-  <i>"I'm Miles Morales. But you can call me... Tata."</i> 🕸️
-</div>
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://qweetin.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/qweetin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
