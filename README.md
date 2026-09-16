@@ -2,39 +2,45 @@
 
 # 🕸️ Hi, I'm Justqwee (ตาต้า) ⚡
 
-<!-- Animated Banner / GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2cGtzdWZuOHB4bnAxa2hhbWZ1bzN4bnR1dDRoM3ptdzJrbm51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmg2M/giphy.gif" width="100%" max-width="600" alt="Spider-Man Coding Banner">
+<!-- Spider-Man / Coding Banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2cGtzdWZuOHB4bnAxa2hhbWZ1bzN4bnR1dDRoM3ptdzJrbm51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmg2M/giphy.gif" width="100%" max-width="600" alt="Spider-Man Banner">
 
-<br>
+<br><br>
 
-<!-- Status Badges -->
+<!-- Badges -->
 ![](https://img.shields.io/badge/Education-Comp--Eng%20RMUTI%20Year%201-e23636?style=for-the-badge&logo=google-academic)
 ![](https://img.shields.io/badge/Role-Aspiring%20Front--End%20Dev-2563eb?style=for-the-badge&logo=codeforces)
 ![](https://img.shields.io/badge/Focus-Web%20%26%20Software%20Dev-fb923c?style=for-the-badge)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## 👋 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdhN2tzdWZyc3RrcnZneWNmN3l3bXJqOHVneXZiN2p5NW1qMnhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv7gUy5Pa/giphy.gif" width="180" align="right" alt="Coding Dog GIF">
+</p>
 
 🎓 **นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 · มทร.อีสาน**
 
 สวัสดีครับ ผมชื่อตาต้า นักศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มทร.อีสาน มีความหลงใหลในโลกของการพัฒนาซอฟต์แวร์และการออกแบบเว็บแอปพลิเคชัน ปัจจุบันกำลังเร่งฝึกฝนทักษะพื้นฐานทางเทคโนโลยี ตั้งแต่เรื่องระบบอินเทอร์เน็ต การเขียนโค้ดฝั่ง Front-end (HTML, CSS, JS) ไปจนถึงการบริหารจัดการซอร์สโค้ดด้วย Git เพื่อสร้างรากฐานที่มั่นคงสำหรับการเป็นนักพัฒนาในอนาคต และพร้อมที่จะเปิดรับโอกาสใหม่ ๆ ในการเรียนรู้และสร้างสรรค์ผลงานที่เป็นประโยชน์ครับ
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdhN2tzdWZyc3RrcnZneWNmN3l3bXJqOHVneXZiN2p5NW1qMnhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv7gUy5Pa/giphy.gif" width="200" alt="Coding Dog GIF">
-</div>
+<br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## ⚡ About My Journey
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPa242I3p5SrdBu/giphy.gif" width="220" alt="Journey GIF">
+</div>
 
 🕸️ **กำลังเริ่มต้นเรียนรู้การเขียนโค้ดและสร้างเว็บของตัวเอง**  
 💻 **Aspiring Front-End Developer & Web Enthusiast**  
 🚀 **มุ่งมั่นพัฒนาทักษะและพร้อมเปิดรับโอกาสใหม่ ๆ อยู่เสมอ**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## 💻 Tech Stack & Tools
 
@@ -53,19 +59,22 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/2I4p7oIAnidSo/giphy.gif" width="280" alt="Developer Typing GIF">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats & Streak Cards -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=qweetin&show_icons=true&theme=radium&hide_border=true" alt="qweetin's GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=qweetin&theme=radium&hide_border=true" alt="qweetin's Streak Stats" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## 🚀 My Goals
 
@@ -74,7 +83,13 @@
 💡 **ฝึกฝนการเขียนโค้ดและการแก้ปัญหาอย่างสม่ำเสมอ**  
 🎓 **เติบโตไปเป็นวิศวกรคอมพิวเตอร์มืออาชีพ**  
 
----
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/d9BCF61UXEBXcv8yG2/giphy.gif" width="320" alt="Pixel Web GIF">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8408-b930810d7e0d.gif" width="100%">
 
 ## 🔗 Connect with Me
 
@@ -89,7 +104,12 @@
 
 <div align="center">
 
-<!-- Profile Views Counter -->
+<br>
+
 ![](https://komarev.com/ghpvc/?username=qweetin&color=e23636&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Spider-Man Hanging GIF">
 
 </div>
