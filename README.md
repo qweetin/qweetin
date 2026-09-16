@@ -1,51 +1,60 @@
 <div align="center">
-  <img src="https://media.tenor.com/f2vP5R1B6uIAAAAC/miles-morales-spider-man-into-the-spider-verse.gif" width="100%" alt="Spider-Verse Header">
+  <!-- แบนเนอร์ฉากโดดตึกสุดเท่ -->
+  <img src="https://media.giphy.com/media/Vb9IgMxcRIa4M/giphy.gif" width="100%" style="border-radius: 15px;" alt="Spider-Verse Epic Header">
+  <br><br>
   
-  <h1>🎧 What's up, danger? I'm Krittin 🕷️</h1>
-  <p><i>1st-Year Computer Engineering Student at RMUTI | Front-End Developer in the making</i></p>
+  <!-- อนิเมชันข้อความพิมพ์เอง (Typing SVG) สีแดงนีออน -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=What's+up,+danger+?;I'm+Krittin+(Tata);Aspiring+Front-End+Developer;Anyone+can+wear+the+mask!" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🏙️ Into the Dev-Verse (About Me)
+<div align="center">
+  <img src="https://media.tenor.com/83pZ_P2Rz24AAAAC/miles-morales.gif" width="150" align="right" alt="Miles Glitch">
+  
+  <h3 align="left">🏙️ Into the Dev-Verse (About Me)</h3>
+  <p align="left">
+    สวัสดีครับ! ผมชื่อ <b>กฤติน</b> (ชื่อเล่น <b>ตาต้า</b>) ปัจจุบันกำลังศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (มทร.อีสาน) <br><br>
+    ผมมีความสนใจเป็นพิเศษในด้านการพัฒนาเว็บไซต์ และตอนนี้กำลังปูพื้นฐานการเขียนโปรแกรมอย่างเข้มข้น ทั้ง HTML, CSS, JavaScript และการใช้งาน Git/GitHub <br><br>
+    เป้าหมายของผมคือการพัฒนาตัวเองให้เป็น <b>Front-End Developer</b> ที่สามารถเปลี่ยนโค้ดให้กลายเป็นหน้าเว็บที่สวยงาม ใช้งานได้จริง และมอบประสบการณ์ที่ดีที่สุดให้กับผู้ใช้ครับ!
+  </p>
+</div>
 
-<img align="right" width="170" src="https://media.tenor.com/83pZ_P2Rz24AAAAC/miles-morales.gif" alt="Spider-Verse Glitch">
-
-สวัสดีครับ! ผม **กฤติน** (ชื่อเล่น **ตาต้า**) ปัจจุบันกำลังศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มทร.อีสาน 
-กำลังฝึกฝน "พลัง" ในการเขียนโค้ดเพื่อก้าวไปเป็น Front-End Developer 
-ผมเชื่อในคำพูดที่ว่า *"Anyone can wear the mask"* และทุกคนก็สามารถสร้างเว็บไซต์ที่ยอดเยี่ยมได้เหมือนกัน! 
-ปัจจุบันกำลังเน้นปูพื้นฐานและสนุกกับการแก้ปัญหาด้วยโค้ดครับ
 <br clear="both">
 
 ---
 
-### ⚡ My Web-Shooters (Tech Stack & Tools)
+<h3 align="center">⚡ My Web-Shooters (Tech Stack)</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <!-- ไอคอนสกิลแบบ 3D สวยๆ ทันสมัยสุดๆ -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode&theme=dark" alt="Skills" />
+  </a>
 </p>
 
 ---
 
-### 📊 My Spider-Stats
+<h3 align="center">📊 My Spider-Stats</h3>
 
 <div align="center">
+  <!-- เพิ่มทั้งการ์ดสถิติรวม และ การ์ดภาษาที่ใช้บ่อยที่สุด -->
   <img src="https://github-readme-stats.vercel.app/api?username=qweetin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qweetin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🔗 Connect with me (Earth-1610)
+<h3 align="center">🔗 Connect with me (Earth-1610)</h3>
 
-- 🌐 **My Portfolio:** [qweetin.github.io](https://qweetin.github.io)
-- 📫 **GitHub:** [@qweetin](https://github.com/qweetin)
-
-<br>
+<p align="center">
+  <a href="https://qweetin.github.io"><img src="https://img.shields.io/badge/My_Portfolio-E23636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/qweetin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <div align="center">
-  <i>""</i> 🕸️
+  <br>
+  <img src="https://media.tenor.com/tH0mE5zXhU8AAAAi/spiderman-dance.gif" width="50" alt="Dancing Spidey">
+  <p><i>"With great power comes great responsibility — and clean code!"</i></p>
 </div>
