@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Vb9IgMxcRIa4M/giphy.gif" width="100%" alt="Miles Morales Header">
+  <!-- รูป Header ฉากกระโดด Leap of Faith จากในหนัง -->
+  <img src="https://media.tenor.com/f2vP5R1B6uIAAAAC/miles-morales-spider-man-into-the-spider-verse.gif" width="100%" alt="Miles Morales Header">
   
-  <h1>🎧 What's up, danger? I'm Tata (Justqwee) 🕷️</h1>
+  <h1>🎧 What's up, danger? I'm Tata 🕷️</h1>
   <p><i>1st-Year Computer Engineering Student at RMUTI | Front-End Developer in the making</i></p>
 </div>
 
@@ -9,16 +10,18 @@
 
 ### 🏙️ Into the Dev-Verse (About Me)
 
-สวัสดีครับ! ผม **ตาต้า** ปัจจุบันกำลังศึกษาอยู่ปี 1 วิศวกรรมคอมพิวเตอร์ มทร.อีสาน 
+<!-- รูปตกแต่ง Miles Morales แบบ Glitch เท่ๆ ด้านข้าง -->
+<img align="right" width="180" src="https://media.tenor.com/83pZ_P2Rz24AAAAC/miles-morales.gif" alt="Spider-Verse Glitch">
+
+สวัสดีครับ! ผม **ตาต้า (Justqwee)** ปัจจุบันกำลังศึกษาอยู่ปี 1 วิศวกรรมคอมพิวเตอร์ มทร.อีสาน 
 กำลังฝึกฝน "พลัง" ในการเขียนโค้ดเพื่อก้าวไปเป็น Front-end Developer 
-ผมเชื่อในคำพูดที่ว่า *"Anyone can wear the mask"* และทุกคนก็สามารถสร้างเว็บไซต์ที่ยอดเยี่ยมได้เหมือนกัน! ปัจจุบันกำลังเน้นปูพื้นฐานและสนุกกับการแก้ปัญหาด้วยโค้ดครับ
+ผมเชื่อในคำพูดที่ว่า *"Anyone can wear the mask"* และทุกคนก็สามารถสร้างเว็บไซต์ที่ยอดเยี่ยมได้เหมือนกัน! ปัจจุบันกำลังเน้นปูพื้นฐานและสนุกกับการแก้ปัญหาด้วยโค้ดครับ <br clear="both">
 
 ---
 
 ### ⚡ My Web-Shooters (Tech Stack & Tools)
 
 <p align="left">
-  <!-- เปลี่ยนป้าย Badges ให้เป็นสีสันเท่ๆ -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -32,7 +35,7 @@
 ### 📊 My Spider-Stats
 
 <div align="center">
-  <!-- การ์ดแสดงสถิติ GitHub อัตโนมัติ (ใช้ธีมสีนีออนแบบ Spider-Verse) -->
+  <!-- แก้ไขชื่อ Username เป็นของคุณ ถ้ายังไม่ขึ้นให้ลองเปลี่ยน qweetin เป็น Justqwee -->
   <img src="https://github-readme-stats.vercel.app/api?username=qweetin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tata's GitHub Stats" />
 </div>
 
