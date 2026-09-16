@@ -1,60 +1,49 @@
-<div align="center">
-  <!-- แบนเนอร์ฉากโดดตึกสุดเท่ -->
-  <img src="https://media.giphy.com/media/Vb9IgMxcRIa4M/giphy.gif" width="100%" style="border-radius: 15px;" alt="Spider-Verse Epic Header">
-  <br><br>
-  
-  <!-- อนิเมชันข้อความพิมพ์เอง (Typing SVG) สีแดงนีออน -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=What's+up,+danger+?;I'm+Krittin+(Tata);Aspiring+Front-End+Developer;Anyone+can+wear+the+mask!" alt="Typing SVG" />
-</div>
+# Hi, I'm Justqwee (ตาต้า) 👋🕸️
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/83pZ_P2Rz24AAAAC/miles-morales.gif" width="150" align="right" alt="Miles Glitch">
-  
-  <h3 align="left">🏙️ Into the Dev-Verse (About Me)</h3>
-  <p align="left">
-    สวัสดีครับ! ผมชื่อ <b>กฤติน</b> (ชื่อเล่น <b>ตาต้า</b>) ปัจจุบันกำลังศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (มทร.อีสาน) <br><br>
-    ผมมีความสนใจเป็นพิเศษในด้านการพัฒนาเว็บไซต์ และตอนนี้กำลังปูพื้นฐานการเขียนโปรแกรมอย่างเข้มข้น ทั้ง HTML, CSS, JavaScript และการใช้งาน Git/GitHub <br><br>
-    เป้าหมายของผมคือการพัฒนาตัวเองให้เป็น <b>Front-End Developer</b> ที่สามารถเปลี่ยนโค้ดให้กลายเป็นหน้าเว็บที่สวยงาม ใช้งานได้จริง และมอบประสบการณ์ที่ดีที่สุดให้กับผู้ใช้ครับ!
-  </p>
-</div>
+## 👋 About Me
 
-<br clear="both">
+🎓 **นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 · มทร.อีสาน**
+
+สวัสดีครับ ผมชื่อตาต้า นักศึกษาชั้นปีที่ 1 สาขาวิศวกรรมคอมพิวเตอร์ มทร.อีสาน มีความหลงใหลในโลกของการพัฒนาซอฟต์แวร์และการออกแบบเว็บแอปพลิเคชัน ปัจจุบันกำลังเร่งฝึกฝนทักษะพื้นฐานทางเทคโนโลยี ตั้งแต่เรื่องระบบอินเทอร์เน็ต การเขียนโค้ดฝั่ง Front-end (HTML, CSS, JS) ไปจนถึงการบริหารจัดการซอร์สโค้ดด้วย Git เพื่อสร้างรากฐานที่มั่นคงสำหรับการเป็นนักพัฒนาในอนาคต และพร้อมที่จะเปิดรับโอกาสใหม่ ๆ ในการเรียนรู้และสร้างสรรค์ผลงานที่เป็นประโยชน์ครับ
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdhN2tzdWZyc3RrcnZneWNmN3l3bXJqOHVneXZiN2p5NW1qMnhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv7gUy5Pa/giphy.gif" width="180" alt="Coding Dog GIF">
 
 ---
 
-<h3 align="center">⚡ My Web-Shooters (Tech Stack)</h3>
+## ⚡ About My Journey
 
-<p align="center">
-  <!-- ไอคอนสกิลแบบ 3D สวยๆ ทันสมัยสุดๆ -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode&theme=dark" alt="Skills" />
-  </a>
-</p>
+🕸️ **กำลังเริ่มต้นเรียนรู้การเขียนโค้ดและสร้างเว็บของตัวเอง**  
+💻 **Aspiring Front-End Developer & Web Enthusiast**  
+🚀 **มุ่งมั่นพัฒนาทักษะและพร้อมเปิดรับโอกาสใหม่ ๆ อยู่เสมอ**  
 
 ---
 
-<h3 align="center">📊 My Spider-Stats</h3>
+## 💻 Skills & Currently Learning
 
-<div align="center">
-  <!-- เพิ่มทั้งการ์ดสถิติรวม และ การ์ดภาษาที่ใช้บ่อยที่สุด -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qweetin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qweetin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+📚 **สิ่งที่กำลังเรียนรู้ (Currently Learning):**
+- 🌐 **Web & Internet:** การใช้งานอินเทอร์เน็ตและบริการออนไลน์
+- 🎨 **Front-End Basics:** โครงสร้างเว็บเบื้องต้น (HTML5 & CSS3)
+- 🛠️ **Version Control:** การใช้งาน Git และ GitHub พื้นฐาน
+
+🛠️ **Tech & Tools:**
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` · `VS Code`
 
 ---
 
-<h3 align="center">🔗 Connect with me (Earth-1610)</h3>
+## 🚀 My Goals
 
-<p align="center">
-  <a href="https://qweetin.github.io"><img src="https://img.shields.io/badge/My_Portfolio-E23636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/qweetin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+🎯 **สร้างรากฐานที่มั่นคงสำหรับการเป็น Front-End Developer**  
+💻 **พัฒนาเว็บแอปพลิเคชันและโปรเจกต์ของตัวเองที่ใช้งานได้จริง**  
+💡 **ฝึกฝนการเขียนโค้ดและการแก้ปัญหาอย่างสม่ำเสมอ**  
+🎓 **เติบโตไปเป็นวิศวกรคอมพิวเตอร์มืออาชีพ**  
 
-<div align="center">
-  <br>
-  <img src="https://media.tenor.com/tH0mE5zXhU8AAAAi/spiderman-dance.gif" width="50" alt="Dancing Spidey">
-  <p><i>"With great power comes great responsibility — and clean code!"</i></p>
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2cGtzdWZuOHB4bnAxa2hhbWZ1bzN4bnR1dDRoM3ptdzJrbm51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmg2M/giphy.gif" width="380" alt="Goal GIF">
+
+---
+
+## 🔗 Connect with Me
+
+🌐 **Portfolio Website:** [qweetin.github.io](https://qweetin.github.io/)  
+💻 **GitHub Profile:** [@qweetin](https://github.com/qweetin)  
