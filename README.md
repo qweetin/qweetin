@@ -35,8 +35,8 @@
 ### 📊 My Spider-Stats
 
 <div align="center">
-  <!-- แก้ไขชื่อ Username เป็นของคุณ ถ้ายังไม่ขึ้นให้ลองเปลี่ยน qweetin เป็น Justqwee -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qweetin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tata's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Justqwee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tata's GitHub Stats" />
 </div>
 
 ---
