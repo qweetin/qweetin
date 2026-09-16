@@ -47,5 +47,5 @@
 <br>
 
 <div align="center">
-  <i>"I'm Miles Morales. But you can call me... Tata."</i> 🕸️
+  <i>""</i> 🕸️
 </div>
